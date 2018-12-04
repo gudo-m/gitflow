@@ -1,2 +1,0 @@
-# gitflow
-YandexLyceum GIT Lesson
