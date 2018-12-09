@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e06f0d25-c23f-41f9-b06f-5b902d89fce5" name="Default Changelist" comment="" />
+    <list default="true" id="e06f0d25-c23f-41f9-b06f-5b902d89fce5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,7 +14,17 @@
     <SUITE FILE_PATH="coverage/gitflow$test.coverage" NAME="test Coverage Results" MODIFIED="1543956481645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -23,6 +35,7 @@
         <option value="$PROJECT_DIR$/list.txt" />
         <option value="$PROJECT_DIR$/DenisSchool.txt" />
         <option value="$PROJECT_DIR$/Denis.txt" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -110,15 +123,16 @@
       <option name="presentableId" value="Default" />
       <updated>1543955293548</updated>
       <workItem from="1543955295875" duration="1727000" />
-      <workItem from="1544388932774" duration="801000" />
+      <workItem from="1544388932774" duration="928000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2528000" />
+    <option name="totallyTimeSpent" value="2655000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="26" width="1922" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2524013" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -151,5 +165,12 @@
     <entry file="file://$PROJECT_DIR$/Denis.txt" />
     <entry file="file://$PROJECT_DIR$/test" />
     <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
